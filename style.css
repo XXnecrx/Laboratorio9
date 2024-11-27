@@ -1,5 +1,5 @@
 body{
-  background-color: black;
+  background-color: darkcyan;
   font-family: Arial, sans-serif;
 }
 h1{
@@ -16,4 +16,20 @@ img{
   height: 70%;
   margin: 20px;
   border: 5px solid darkred
+}
+
+.Container{
+  width: 80%;
+  height: 80%;
+  margin: 10px;
+  border: 5px solid rebeccapurple;
+  background-color: black;
+}
+
+.Copa Sudamericana{
+  padding: 20px;
+}
+
+.Copa Libertadores{
+  padding: 20px;
 }
